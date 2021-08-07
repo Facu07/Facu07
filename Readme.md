@@ -52,4 +52,4 @@
 [sisgraph]: https://github.com/Facu07/Facu07.github.io
 [nodejs]: https://gitlab.com/ContiGianfranco/tdd-server
 [docker]: https://gitlab.com/Facu07/2020-01-docker
-[automat]: https://github.com/fepwalter/automatizacion
+[automat]: https://github.com/Facu07/FiubaSisOp
