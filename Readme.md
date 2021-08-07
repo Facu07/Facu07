@@ -36,5 +36,12 @@
 
 ---
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Facu's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Facu07&show_icons=true&hide_border=true" />
+
+</details>
+
 [instagram]: https://www.instagram.com/facu.w
 [linkedin]: https://www.linkedin.com/in/facundo-walter
