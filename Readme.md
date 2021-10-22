@@ -1,6 +1,6 @@
 ### Hi there, I'm Facu 👋
 
-## I'm a Student !!
+## I'm a Computer Engineering Student !!
 
 ### Connect with me:
 
